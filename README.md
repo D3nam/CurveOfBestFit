@@ -2,6 +2,12 @@
 
 This project is a .NET React application.
 
+It allows users to
+   1. Enter any number of 2D points.
+   2. Select linear, quadratic, or cubic curves of best fit.
+   3. See a plot of the points they entered, along with the curve of best fit.
+   4. See the equation of the curve of best fit. 
+
 ## Getting Started
 
 To run this application, follow these steps:
