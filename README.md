@@ -38,4 +38,4 @@ To run this application, follow these steps:
 
 6. **Navigate to webpage:**
 
-   Open 'https://localhost:44470/' on your browser of choice
+   Open https://localhost:44470/ on your browser of choice
